@@ -1,19 +1,63 @@
-OS Lab (Ubuntu)
+# Operating System 
 
-This repo contains 5 lab reports for my Operating Systems course (Nguyen Duong Phuc - UIT).
-All labs were done on Ubuntu running on a VirtualBox virtual machine.
+> Operating Systems lab reports (Ubuntu) including explanations and screenshots for each exercise.
 
-Content:
-  There are 5 report files (.docx), each one is a lab.
+---
 
-Each report includes:
-  Questions
-  Answers with explanations
-  Screenshots
-  
-Environment:
-  Ubuntu
-  VirtualBox
+## Overview
 
-Note:
-  I made these labs to practice and understand OS concepts better. Sorry if there are any mistakes :P
+This repository contains Operating Systems lab reports completed on Ubuntu using VirtualBox.
+
+What this Lab helps with:
+- Getting familiar with Ubuntu OS  
+- Learning how to run and manage a virtual machine (VirtualBox)  
+- Practicing basic terminal commands (ls, mkdir, cd, etc.)
+
+What technologies are used:
+- <img src="https://img.icons8.com/color/48/ubuntu.png" width="20"/> Ubuntu (Linux)
+- <img src="https://img.icons8.com/color/48/virtualbox.png" width="20"/> VirtualBox  
+- .docx documentation
+---
+## 🖥️ Environment  
+
+## Lab Structure
+```
+OS-ubuntu-/
+│
+├── Lab1/
+│   ├── 24521386_LAB1.docx
+│   └── 24521386_LAB1.pdf
+│
+├── Lab2/
+│   ├── 24521386_LAB2.docx
+│   └── 24521386_LAB2.pdf
+│
+├── Lab3/
+│   ├── 24521386_LAB3.docx
+│   └── 24521386_LAB3.pdf
+│
+├── Lab4/
+│   ├── 24521386_LAB4.docx
+│   └── 24521386_LAB4.pdf
+│
+├── Lab5/
+│   ├── 24521386_LAB5.docx
+│   └── 24521386_LAB5.pdf
+│
+├── Lab6/
+│   ├── 24521386_LAB6.docx
+│   └── 24521386_LAB6.pdf
+│
+└── README.md
+```
+## Author
+- **Nguyen Duong Phuc**
+- University of Information Technology (UIT)
+- GitHub: https://github.com/YangPuckUIT
+
+## Note
+
+This project was created for learning and practice purposes.  
+There may be mistakes or incomplete explanations in the reports.  
+
+Feel free to use it as a reference, but please do not copy blindly.
