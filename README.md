@@ -18,7 +18,6 @@ What technologies are used:
 - <img src="https://img.icons8.com/color/48/virtualbox.png" width="20"/> VirtualBox  
 - .docx documentation
 ---
-## 🖥️ Environment  
 
 ## Lab Structure
 ```
