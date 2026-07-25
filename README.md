@@ -1,4 +1,4 @@
-# Operating System 
+# Operating System
 
 > Operating Systems lab reports (Ubuntu) including explanations and screenshots for each exercise.
 
@@ -6,18 +6,17 @@
 
 ## Overview
 
-This repository contains Operating Systems lab reports completed on Ubuntu using VirtualBox.
+This repository contains Operating Systems lab reports from the **Operating System (CS4323.Q12.CTTT)** course, completed on Ubuntu using VirtualBox.
 
 What this Lab helps with:
-- Getting familiar with Ubuntu OS  
-- Learning how to run and manage a virtual machine (VirtualBox)  
-- Practicing basic terminal commands (ls, mkdir, cd, etc.)
+- Getting familiar with Ubuntu OS
+- Learning how to run and manage virtual machines using VirtualBox
+- Practicing basic Linux terminal commands (ls, mkdir, cd, etc.)
 
 What technologies are used:
 - <img src="https://img.icons8.com/color/48/ubuntu.png" width="20"/> Ubuntu (Linux)
-- <img src="https://img.icons8.com/color/48/virtualbox.png" width="20"/> VirtualBox  
+- <img src="https://img.icons8.com/color/48/virtualbox.png" width="20"/> VirtualBox
 - .docx documentation
----
 
 ## Lab Structure
 ```
