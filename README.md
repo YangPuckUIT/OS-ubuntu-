@@ -20,7 +20,7 @@ What technologies are used:
 
 ## Lab Structure
 ```
-OS-ubuntu-/
+operating-systems-linux/
 │
 ├── Lab1/
 │   ├── 24521386_LAB1.docx
